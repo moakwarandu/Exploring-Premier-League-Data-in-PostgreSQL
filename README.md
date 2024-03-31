@@ -6,14 +6,4 @@ The data used in this project is provided by Kaggle.com. This dataset covers eve
 
 The SQL queries were run in a Jupyter Notebook.
 
-Clauses and Concepts applied include:
-
-SELECT clause
-LIMIT
-GROUP BY
-ORDER BY
-COUNT (DISTINCT())
-AVG()
-ROUND()
-Subqueries
-Now, relax and let's explore!  :smile: 
+Now, relax and let's [explore!](https://github.com/moakwarandu/Exploring-Premier-League-Data-in-PostgreSQL/blob/main/matches.ipynb)  :smile: 
