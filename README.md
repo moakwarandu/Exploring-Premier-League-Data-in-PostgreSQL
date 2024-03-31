@@ -1,4 +1,6 @@
 ## Exploring-Premier-League-Data-in-PostgreSQL
+![](images.png)
+
 
 This is an exhibition of my skills in using PostgreSQL to interact with a relational database.
 
