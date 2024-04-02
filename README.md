@@ -8,4 +8,4 @@ The data used in this project is provided by Kaggle.com. This dataset covers eve
 
 The SQL queries were run in a Jupyter Notebook.
 
-Now, relax and let's [explore!](https://github.com/moakwarandu/Exploring-Premier-League-Data-in-PostgreSQL/blob/main/matches.ipynb)  :smile: 
+Now, relax and let's explore! [PLEASE CLICK HERE](https://github.com/moakwarandu/Exploring-Premier-League-Data-in-PostgreSQL/blob/main/matches.ipynb)  :smile: 
